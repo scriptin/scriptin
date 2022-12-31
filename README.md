@@ -5,7 +5,11 @@ Programming is both my job and hobby, but other than that
 I am interested in science, sci-fi, cyber-security,
 (natural) languages, and art.
 
-[`Website`](https://scriptin.github.io) &bull; [`StackExchange`](https://stackexchange.com/users/224676/scriptin?tab=accounts) &bull; `TODO:LinkedIn`
+[`Website`](https://scriptin.github.io)
+&bull;
+[`StackExchange`](https://stackexchange.com/users/224676/scriptin?tab=accounts)
+&bull;
+`TODO:LinkedIn`
 
 ---
 
@@ -17,10 +21,11 @@ const scriptin = {
   education: "IT Security", // I'm a self-taught programmer
   hardSkills: {
     programming: [TypeScript, JavaScript, Kotlin, SQL, Bash, Python],
-    ui: [React, HTML, CSS, Canvas2D, Figma],
+    ui: [React, HTML, CSS, Figma],
+    graphics: [Canvas2D, Processing, P5js, SVG],
     testing: [TDD, BDD, UnitTesting, EndToEndTesting, Jest],
     ci: [GitHubActions, GitLabCI, Docker],
-    other: [XML, SVG, REST, GraphQL, Parsing],
+    other: [XML, REST, GraphQL, Parsing],
     outdated: [PHP, Java], // In the past
   },
   softSkills: {
