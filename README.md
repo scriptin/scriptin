@@ -12,9 +12,9 @@ I am interested in science, sci-fi, cyber-security,
 ```ts
 // TypeScript
 const scriptin = {
-  name: "Dmitry Shpika",
+  name: "Dmitry Shpika", // [DMEE-tree SHPEE-kah]
   pronouns: ["he", "him"],
-  education: "IT Security",
+  education: "IT Security", // I'm a self-taught programmer
   hardSkills: {
     programming: [TypeScript, JavaScript, Kotlin, SQL, Bash, Python],
     ui: [React, HTML, CSS, Canvas2D, Figma],
@@ -36,4 +36,4 @@ const scriptin = {
 
 <br/>
 
-See pinned repos for more :point_down:
+Check out my pinned repos :point_down:
