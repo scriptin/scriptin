@@ -15,7 +15,7 @@ const scriptin = {
   name: "Dmitry Shpika",
   pronouns: ["he", "him"],
   education: "IT Security",
-  hardSkills: { // In the order of proficiency
+  hardSkills: {
     programming: [TypeScript, JavaScript, Kotlin, SQL, Bash, Python],
     ui: [React, HTML, CSS, Canvas2D, Figma],
     testing: [TDD, BDD, UnitTesting, EndToEndTesting, Jest],
