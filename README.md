@@ -1,9 +1,9 @@
 # :wave: Hello, my name is Dmitry
 
 I am a software developer, coding mostly webapps.
-Programming is both my job and hobby, but other than that
-I am interested in science, sci-fi, cyber-security,
-(natural) languages, and art.
+Programming is both my job and hobby,
+but I am also interested in science, sci-fi,
+cyber-security, (natural) languages, and art.
 
 [`Website`](https://scriptin.github.io)
 &bull;
