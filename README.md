@@ -23,10 +23,10 @@ const scriptin = {
     programming: [TypeScript, JavaScript, Kotlin, SQL, Bash, Python],
     ui: [React, HTML, CSS, Figma],
     graphics: [Canvas2D, Processing, P5js, SVG],
-    testing: [TDD, BDD, UnitTesting, EndToEndTesting, Jest],
-    ci: [GitHubActions, GitLabCI, Docker],
-    other: [XML, REST, GraphQL, Parsing],
-    outdated: [PHP, Java], // In the past
+    testing: [TDD, BDD, Jest],
+    ci: [GitHub.Actions, GitLab.CI, Docker],
+    other: [XML, REST, GraphQL, Parsing, WebScraping],
+    _outdated: [PHP, Java], // In the past
   },
   softSkills: {
     teaching: "I like to explain complex topics in simple terms",
