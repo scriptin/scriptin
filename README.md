@@ -1,4 +1,4 @@
-# Hello :wave:, my name is Dmitry
+# :wave: Hello, my name is Dmitry
 
 I am a software developer, coding mostly webapps.
 Programming is both my job and hobby, but other than that
@@ -30,7 +30,7 @@ const scriptin = {
   },
   softSkills: {
     teaching: "I like to explain complex topics in simple terms",
-    learning: "Currently focusing on Python+AI, and some natural languages",
+    learning: "Currently focusing on Python+AI and some natural languages",
     writing: `Technical and fiction.
               I wrote a lot of answers on Stack Overflow,
               some articles, and even a few short novels`,
