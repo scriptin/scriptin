@@ -37,7 +37,7 @@ const scriptin = {
               some articles, and even a few short novels`,
   },
   hobbies: [Programming, Astronomy, Math, Japanese, Art],
-} satisfies SoftwareDeveloper;
+} satisfies SoftwareEngineer;
 ```
 
 <br/>
