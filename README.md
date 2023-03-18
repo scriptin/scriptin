@@ -5,20 +5,20 @@ Programming is both my job and hobby,
 but I am also interested in science, sci-fi,
 cyber-security, (natural) languages, and art.
 
-[`Website`](https://scriptin.github.io)
-&bull;
-[`StackExchange`](https://stackexchange.com/users/224676/scriptin?tab=accounts)
-&bull;
-`TODO:LinkedIn`
-
----
+[![Website](https://img.shields.io/static/v1?label=WWW&message=scriptin.github.io&color=blue&style=flat)](https://scriptin.github.io)
+[![StackExchange](https://img.shields.io/static/v1?label=StackExchange&message=scriptin&color=blue&style=flat&logo=stackexchange)](https://stackexchange.com/users/224676/scriptin?tab=accounts)
+[![NPM](https://img.shields.io/static/v1?label=NPM&message=scriptin&color=blue&style=flat&logo=npm)](https://www.npmjs.com/~scriptin)
+![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=TODO&color=lightgrey&style=flat&logo=linkedin)
 
 ```ts
 // TypeScript
 const scriptin = {
   name: "Dmitry Shpika", // [DMEE-tree SHPEE-kah]
   pronouns: ["he", "him"],
-  education: "IT Security", // I'm a self-taught programmer
+  education: [
+    { specialty: "Software Engineering", type: "self-taught" },
+    { specialty: "IT Security", type: "formal" },
+  ],
   hardSkills: {
     programming: [TypeScript, JavaScript, Kotlin, SQL, Bash, Python],
     ui: [React, HTML, CSS, Bootstrap, MaterialUI, Figma],
