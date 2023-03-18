@@ -11,7 +11,6 @@ cyber-security, (natural) languages, and art.
 ![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=TODO&color=lightgrey&style=flat&logo=linkedin)
 
 ```ts
-// TypeScript
 const scriptin = {
   name: "Dmitry Shpika", // [DMEE-tree SHPEE-kah]
   pronouns: ["he", "him"],
@@ -21,20 +20,22 @@ const scriptin = {
   ],
   hardSkills: {
     programming: [TypeScript, JavaScript, Kotlin, SQL, Bash, Python],
-    ui: [React, HTML, CSS, Bootstrap, MaterialUI, Figma],
+    ui: [React, HTML, CSS, Tailwind, Bootstrap, MaterialUI, Figma],
     graphics: [Canvas2D, Processing, P5js, SVG],
     testing: [TDD, BDD, Jest],
-    ci: [GitHub_Actions, GitLab_CI, Docker],
+    ci: [GitHubActions, GitLabCI, Docker],
     other: [XML, REST, GraphQL, Parsing, WebScraping],
     _outdated: [PHP, Java, jQuery, AngularJS], // In the past
   },
   softSkills: {
     teaching: "I like to explain complex topics in simple terms",
-    learning: "Currently focusing on Python+AI and some natural languages",
-    design: "Creating UIs using component libraries and from scratch",
+    learning: "Currently focusing on Python+AI and natural language research",
+    design: "Creating UIs using component libraries/frameworks, or from scratch",
     writing: `Technical and fiction.
-              I wrote a lot of answers on Stack Overflow,
-              some articles, and even a few short novels`,
+              I wrote 130+ answers on Stack Exchange,
+              maybe 5-7 articles, dozens of readmes,
+              a bazillion Jira tickets,
+              and a couple of short novels`,
   },
   hobbies: [Programming, Astronomy, Math, Japanese, Art],
 } satisfies SoftwareEngineer;
