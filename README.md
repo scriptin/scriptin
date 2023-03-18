@@ -5,9 +5,9 @@ Programming is both my job and hobby,
 but I am also interested in science, sci-fi,
 cyber-security, (natural) languages, and art.
 
-[![Website](https://img.shields.io/static/v1?label=WWW&message=scriptin.github.io&color=blue&style=flat)](https://scriptin.github.io)
+[![Website](https://img.shields.io/static/v1?label=web&message=scriptin.github.io&color=blue&style=flat)](https://scriptin.github.io)
 [![StackExchange](https://img.shields.io/static/v1?label=StackExchange&message=scriptin&color=blue&style=flat&logo=stackexchange)](https://stackexchange.com/users/224676/scriptin?tab=accounts)
-[![NPM](https://img.shields.io/static/v1?label=NPM&message=scriptin&color=blue&style=flat&logo=npm)](https://www.npmjs.com/~scriptin)
+[![NPM](https://img.shields.io/static/v1?label=npm&message=scriptin&color=blue&style=flat&logo=npm)](https://www.npmjs.com/~scriptin)
 ![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=TODO&color=lightgrey&style=flat&logo=linkedin)
 
 ```ts
