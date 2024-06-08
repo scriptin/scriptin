@@ -2,34 +2,41 @@
 
 I am a software developer, coding mostly webapps.
 Programming is both my job and hobby,
-but I am also interested in science, sci-fi,
-cyber-security, (natural) languages, and art.
+but I am also interested in (natural) languages,
+cyber-security, astronomy, math, and art.
 
-[![Website](https://img.shields.io/static/v1?label=web&message=scriptin.github.io&color=blue&style=flat)](https://scriptin.github.io)
-[![StackExchange](https://img.shields.io/static/v1?label=StackExchange&message=scriptin&color=blue&style=flat&logo=stackexchange)](https://stackexchange.com/users/224676/scriptin?tab=accounts)
-[![NPM](https://img.shields.io/static/v1?label=npm&message=scriptin&color=blue&style=flat&logo=npm)](https://www.npmjs.com/~scriptin)
-![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=TODO&color=lightgrey&style=flat&logo=linkedin)
+You can find me here:
+
+- [Website](https://scriptin.github.io)
+- [StackExchange](https://stackexchange.com/users/224676/scriptin?tab=accounts)
+- [NPM](https://www.npmjs.com/~scriptin)
+- [Tatoeba.org](https://tatoeba.org/en/user/profile/scriptin)
 
 ```ts
 const scriptin = {
   name: "Dmitry Shpika", // [DMEE-tree SHPEE-kah]
   pronouns: ["he", "him"],
   education: [
-    { specialty: "Software Engineering", type: "self-taught" },
-    { specialty: "IT Security", type: "formal" },
+    { specialty: "Software Engineering",
+      type: "self-taught",
+      experience: "12+ years" },
+    { specialty: "IT Security",
+      type: "degree",
+      experience: "Occasional consulting and auditing" },
   ],
   hardSkills: {
     programming: [TypeScript, JavaScript, Kotlin, SQL, Bash, Python],
+    buildTools: [Webpack, Vite, Gradle],
     ui: [React, HTML, CSS, Tailwind, Bootstrap, MaterialUI, Figma],
     graphics: [Canvas2D, Processing, P5js, SVG],
     testing: [TDD, BDD, Jest],
-    ci: [GitHubActions, GitLabCI, Docker],
+    ci: [Docker, GitHubActions, GitLabCI],
     other: [XML, REST, GraphQL, Parsing, WebScraping],
     _outdated: [PHP, Java, jQuery, AngularJS], // In the past
   },
   softSkills: {
     teaching: "I like to explain complex topics in simple terms",
-    learning: "Currently focusing on Python+AI and natural language research",
+    learning: "Currently focusing on foreign languages",
     design: "Creating UIs using component libraries/frameworks, or from scratch",
     writing: `Technical and fiction.
               I wrote 130+ answers on Stack Exchange,
@@ -37,10 +44,10 @@ const scriptin = {
               a bazillion Jira tickets,
               and a couple of short novels`,
   },
-  hobbies: [Programming, Astronomy, Math, Japanese, Art],
+  hobbies: [Programming, Languages, Astronomy, Math, Art],
 } satisfies SoftwareEngineer;
 ```
 
-<br/>
+![Dmitry Shpika's GitHub stats](https://github-readme-stats.vercel.app/api?username=scriptin&theme=nord&rank_icon=percentile&show_icons=true&disable_animations=true&show=prs_merged&hide=contribs)
 
 Check out my pinned repos :point_down:
