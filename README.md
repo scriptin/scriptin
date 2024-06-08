@@ -1,16 +1,11 @@
 # :wave: Hello, my name is Dmitry
 
+[Website](https://scriptin.github.io) &bull; [StackExchange](https://stackexchange.com/users/224676/scriptin?tab=accounts) &bull; [NPM](https://www.npmjs.com/~scriptin) &bull; [Tatoeba.org](https://tatoeba.org/en/user/profile/scriptin)
+
 I am a software developer, coding mostly webapps.
 Programming is both my job and hobby,
 but I am also interested in (natural) languages,
 cyber-security, astronomy, math, and art.
-
-You can find me here:
-
-- [Website](https://scriptin.github.io)
-- [StackExchange](https://stackexchange.com/users/224676/scriptin?tab=accounts)
-- [NPM](https://www.npmjs.com/~scriptin)
-- [Tatoeba.org](https://tatoeba.org/en/user/profile/scriptin)
 
 ```ts
 const scriptin = {
