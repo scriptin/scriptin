@@ -20,13 +20,14 @@ const scriptin = {
       experience: "Occasional consulting and auditing" },
   ],
   hardSkills: {
-    programming: [TypeScript, JavaScript, Kotlin, SQL, Bash, Python],
-    buildTools: [Webpack, Vite, Gradle],
+    programming: [TypeScript, JavaScript, Kotlin, SQL, ShellScripts, Python],
     ui: [React, HTML, CSS, Tailwind, Bootstrap, MaterialUI, Figma],
+    api: [GraphQL, REST, SOAP, RPC],
+    buildTools: [Webpack, Vite, Gradle],
     graphics: [Canvas2D, Processing, P5js, SVG],
-    testing: [TDD, BDD, Jest],
+    testing: [TDD, BDD, Unit, E2E],
     ci: [Docker, GitHubActions, GitLabCI],
-    other: [XML, REST, GraphQL, Parsing, WebScraping],
+    other: [Parsing, WebScraping, XML],
     _outdated: [PHP, Java, jQuery, AngularJS], // In the past
   },
   softSkills: {
@@ -34,10 +35,10 @@ const scriptin = {
     learning: "Currently focusing on foreign languages",
     design: "Creating UIs using component libraries/frameworks, or from scratch",
     writing: `Technical and fiction.
-              I wrote 130+ answers on Stack Exchange,
+              I've written 130+ answers on Stack Exchange,
               maybe 5-7 articles, dozens of readmes,
-              a bazillion Jira tickets,
-              and a couple of short novels`,
+              countless Jira tickets,
+              a few short novels and poems`,
   },
   hobbies: [Programming, Languages, Astronomy, Math, Art],
 } satisfies SoftwareEngineer;
