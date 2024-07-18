@@ -44,6 +44,4 @@ const scriptin = {
 } satisfies SoftwareEngineer;
 ```
 
-![Dmitry Shpika's GitHub stats](https://github-readme-stats.vercel.app/api?username=scriptin&theme=nord&rank_icon=percentile&show_icons=true&disable_animations=true&show=prs_merged&hide=contribs)
-
 Check out my pinned repos :point_down:
