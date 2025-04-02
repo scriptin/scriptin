@@ -1,6 +1,6 @@
 # :wave: Hello, my name is Dmitry
 
-[Website](https://scriptin.github.io) &bull; [CV](https://github.com/scriptin/cv/releases/latest/download/Dmitry_Shpika_CV.pdf) &bull; [LinkedIn](https://www.linkedin.com/in/dmitry-shpika/) &bull; [StackExchange](https://stackexchange.com/users/224676/scriptin?tab=accounts) &bull; [NPM](https://www.npmjs.com/~scriptin) &bull; [Tatoeba.org](https://tatoeba.org/en/user/profile/scriptin)
+[Website](https://scriptin.github.io) &bull; [CV](https://github.com/scriptin/cv/releases/latest/download/Dmitry_Shpika_CV.pdf) &bull; [LinkedIn](https://www.linkedin.com/in/dmitry-shpika/) &bull; [StackExchange](https://stackexchange.com/users/224676/scriptin?tab=accounts) &bull; [NPM](https://www.npmjs.com/~scriptin)
 
 I am a software developer, specializing mostly in web applications.
 Programming is both my job and hobby,
